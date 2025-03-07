@@ -1,2 +1,6 @@
-# Willkommen zur Dokumentation
-Diese Seite beschreibt das Projekt **XYZ**. Hier findest du alle relevanten Informationen.
+### 2.3 Links zwischen Seiten erstellen
+Füge in `index.md` eine Inhaltsübersicht hinzu:
+```markdown
+## Inhalt
+- [Einrichtung](docs/setup.md)
+- [Funktionen](docs/features.md)
